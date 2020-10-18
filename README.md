@@ -1,4 +1,4 @@
-This challenge was created to refractor the code for a fake SEO company named, Horiseon. Horiseon is a marketing agency that has asked to codebase accessibility standards so that it is optimated for search engines. 
+This challenge was created to refractor the code for a fake SEO company named, Horiseon. Horiseon is a marketing agency that has asked to codebase accessibility standards so that it is optimized for search engines. 
 
 The requirements for this challenge were:
     <ul>
